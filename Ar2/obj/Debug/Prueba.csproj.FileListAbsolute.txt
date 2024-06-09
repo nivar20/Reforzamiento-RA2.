@@ -1,0 +1,10 @@
+C:\Users\Maria Ribera\Downloads\Ar2\bin\Debug\Prueba.exe.config
+C:\Users\Maria Ribera\Downloads\Ar2\bin\Debug\Prueba.exe
+C:\Users\Maria Ribera\Downloads\Ar2\bin\Debug\Prueba.pdb
+C:\Users\Maria Ribera\Downloads\Ar2\obj\Debug\Prueba.csproj.AssemblyReference.cache
+C:\Users\Maria Ribera\Downloads\Ar2\obj\Debug\Prueba.Properties.Resources.resources
+C:\Users\Maria Ribera\Downloads\Ar2\obj\Debug\Prueba.csproj.GenerateResource.cache
+C:\Users\Maria Ribera\Downloads\Ar2\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\Maria Ribera\Downloads\Ar2\obj\Debug\Prueba.exe
+C:\Users\Maria Ribera\Downloads\Ar2\obj\Debug\Prueba.pdb
+C:\Users\Maria Ribera\Downloads\Ar2\obj\Debug\Prueba.btnLimpiar.resources
